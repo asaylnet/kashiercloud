@@ -1,2 +1,0 @@
-# kashiercloud
-kashier cloud POS
